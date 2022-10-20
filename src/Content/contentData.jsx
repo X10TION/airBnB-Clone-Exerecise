@@ -22,10 +22,9 @@ import {
   import { RiEarthquakeFill } from 'react-icons/ri';
   
   export const locationsTab = [
-    { id: 1, label: 'Design', icon: <MdOutlineApartment size={24} /> },
-    { id: 2, label: 'Arctic', icon: <BsSnow size={24} /> },
+
     { id: 3, label: 'Shared Homes', icon: <MdHouseSiding size={24} /> },
-    { id: 4, label: 'LakeFront', icon: <MdOutlineWater size={24} /> },
+    { id: 4, label: 'OMG', icon: <MdOutlineWater size={24} /> },
     { id: 5, label: 'National Parks', icon: <GiKidSlide size={24} /> },
     { id: 6, label: 'Bed & Breakfast ', icon: <AiOutlineCoffee size={24} /> },
     { id: 7, label: 'OMG!', icon: <GiSpaceNeedle size={24} /> },
@@ -34,6 +33,8 @@ import {
     { id: 10, label: 'Domes', icon: <GiLightningDome size={24} /> },
     { id: 11, label: 'Tiny Homes', icon: <BiHomeAlt size={24} /> },
     { id: 12, label: 'Treehouses', icon: <GiEvilTree size={24} /> },
+    { id: 1, label: 'Design', icon: <MdOutlineApartment size={24} /> },
+    { id: 2, label: 'Arctic', icon: <BsSnow size={24} /> },
     { id: 13, label: 'Surfing', icon: <GiWaveSurfer size={24} /> },
     { id: 14, label: 'CountrySide', icon: <GiMountainCave size={24} /> },
     { id: 15, label: 'Caves', icon: <GiCaveEntrance size={24} /> },
@@ -50,19 +51,19 @@ import {
       locationImages: [
         {
           id: 1,
-          url: 'https://images.unsplash.com/photo-1600240644455-3edc55c375fe?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/prohost-api/Hosting-52299918/original/14da67b1-5c72-4a80-8523-b598304a8e5a.jpeg?im_w=1200',
         },
         {
           id: 2,
-          url: 'https://images.unsplash.com/photo-1653408400816-af6dba0c9432?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/35cc907e-e7e3-447c-ad3a-412508867669.jpg?im_w=720',
         },
         {
           id: 3,
-          url: 'https://images.unsplash.com/photo-1653312727964-736f11663ef6?auto=format&fit=crop&w=400&h=250&q=80',
+          url: 'https://a0.muscache.com/im/pictures/e14b148c-f451-4954-855c-825ce0370d50.jpg?im_w=720',
         },
         {
           id: 4,
-          url: 'https://images.unsplash.com/photo-1629447236132-22c57cd0f0bf?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/miso/Hosting-49317829/original/5c6ccc31-1109-4ed9-9224-606b164390f6.jpeg?im_w=720',
         },
       ],
       location: 'Gardon Reveira, Italy',
@@ -76,19 +77,19 @@ import {
       locationImages: [
         {
           id: 1,
-          url: 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/miso/Hosting-640540369923135601/original/117fa533-afb8-4841-bdd9-6210ce65e8fc.jpeg?im_w=720',
         },
         {
           id: 2,
-          url: 'https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/e14b148c-f451-4954-855c-825ce0370d50.jpg?im_w=720',
         },
         {
           id: 3,
-          url: 'https://images.unsplash.com/photo-1433086966358-54859d0ed716?auto=format&fit=crop&w=400&h=250&q=80',
+          url: 'https://a0.muscache.com/im/pictures/miso/Hosting-640540369923135601/original/117fa533-afb8-4841-bdd9-6210ce65e8fc.jpeg?im_w=720',
         },
         {
           id: 4,
-          url: 'https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/d1a4cf47-0f8c-4598-85a4-0e01fcc638ed.jpg?im_w=720',
         },
       ],
       location: 'Joshua tree, USA',
@@ -102,19 +103,19 @@ import {
       locationImages: [
         {
           id: 1,
-          url: 'https://images.unsplash.com/photo-1426604966848-d7adac402bff?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/e961e0a2-24a2-40bf-ad13-b4a63fdfe88c.jpg?im_w=720',
         },
         {
           id: 2,
-          url: 'https://images.unsplash.com/photo-1586348943529-beaae6c28db9?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/d1a4cf47-0f8c-4598-85a4-0e01fcc638ed.jpg?im_w=720',
         },
         {
           id: 3,
-          url: 'https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=400&h=250&q=80',
+          url: 'https://a0.muscache.com/im/pictures/51d3a7fd-b9f0-497e-b5af-449e3f72645a.jpg?im_w=720',
         },
         {
           id: 4,
-          url: 'https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/241f325a-6427-45ae-8126-1067a4954fec.jpg?im_w=720',
         },
       ],
       location: 'Uvita rosa, Costa Rica',
@@ -128,7 +129,7 @@ import {
       locationImages: [
         {
           id: 1,
-          url: 'https://images.unsplash.com/photo-1518173946687-a4c8892bbd9f?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/8e5c4010-3c17-4fad-9662-dbbe87786f05.jpg?im_w=720',
         },
         {
           id: 2,
@@ -136,7 +137,7 @@ import {
         },
         {
           id: 3,
-          url: 'https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=400&h=250&q=80',
+          url: 'https://a0.muscache.com/im/pictures/8e5c4010-3c17-4fad-9662-dbbe87786f05.jpg?im_w=720',
         },
         {
           id: 4,
@@ -154,7 +155,7 @@ import {
       locationImages: [
         {
           id: 1,
-          url: 'https://images.unsplash.com/photo-1647891940243-77a6483a152e?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/729ab579-5e52-4d4b-8dda-bea6558cf49a.jpg?im_w=720',
         },
         {
           id: 2,
@@ -180,7 +181,7 @@ import {
       locationImages: [
         {
           id: 1,
-          url: 'https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/d81af50c-1da2-4605-9984-784ec337bffb.jpg?im_w=720',
         },
         {
           id: 2,
@@ -206,7 +207,7 @@ import {
       locationImages: [
         {
           id: 1,
-          url: 'https://images.unsplash.com/photo-1504567961542-e24d9439a724?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/miso/Hosting-34457016/original/7b0418d7-48e1-4a89-87fa-8742ee6f2288.jpeg?im_w=720',
         },
         {
           id: 2,
@@ -232,7 +233,7 @@ import {
       locationImages: [
         {
           id: 1,
-          url: 'https://images.unsplash.com/photo-1523528283115-9bf9b1699245?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/miso/Hosting-33426220/original/48732069-7624-4139-8631-e3c1a6c365bb.jpeg?im_w=720',
         },
         {
           id: 2,
@@ -258,7 +259,7 @@ import {
       locationImages: [
         {
           id: 1,
-          url: 'https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=400&h=250&q=60',
+          url: 'https://a0.muscache.com/im/pictures/70b73026-2783-41b8-a779-909bfc3ac6d2.jpg?im_w=720',
         },
         {
           id: 2,
