@@ -21,3 +21,4 @@ The buttons on the footer does not need to be functional or clickable
 No API connections are needed, everything should be mocked
 *** Host on Netlify or any other hosting platform and upload  a link to your
 the link below
+*** url('https://airbnbv.vercel.app/')
