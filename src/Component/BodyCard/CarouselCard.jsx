@@ -8,7 +8,7 @@ import Button from '@mui/material/Button';
 import KeyboardArrowLeft from '@mui/icons-material/KeyboardArrowLeft';
 import KeyboardArrowRight from '@mui/icons-material/KeyboardArrowRight';
 // 3rd party
-// import SwipeableViews from 'react-swipeable-views';
+import SwipeableViews from 'react-swipeable-views';
 
 // react icons
 import { AiFillStar } from 'react-icons/ai';
